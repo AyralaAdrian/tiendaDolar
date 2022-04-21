@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiendaDolar/static/css/main.6cff79dc.css",
+    "main.js": "/tiendaDolar/static/js/main.b27f0dc7.js",
+    "static/js/787.ce35adb9.chunk.js": "/tiendaDolar/static/js/787.ce35adb9.chunk.js",
+    "index.html": "/tiendaDolar/index.html",
+    "main.6cff79dc.css.map": "/tiendaDolar/static/css/main.6cff79dc.css.map",
+    "main.b27f0dc7.js.map": "/tiendaDolar/static/js/main.b27f0dc7.js.map",
+    "787.ce35adb9.chunk.js.map": "/tiendaDolar/static/js/787.ce35adb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cff79dc.css",
+    "static/js/main.b27f0dc7.js"
+  ]
+}
