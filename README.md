@@ -1,3 +1,17 @@
+# Tienda Dolar Challenge. 
+
+![image](https://user-images.githubusercontent.com/83473070/164346086-d7c2cf18-885d-471d-8aac-6c0f46da7a5b.png)
+
+# Cómo funciona la App?
+
+La aplicación muestra un contador que desciende y permite clickear en cualquier segundo (60s - 0s).
+
+Después la app decide que color le corresponde al segundo del clickeo.
+
+El segundo del click se salva en LS y no se actualizara hasta que no se borre la key de LS.
+
+Tambien se muestra un componente de ESTADISTICAS que simula mostrar informacion de clickeo de otros usuarios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
